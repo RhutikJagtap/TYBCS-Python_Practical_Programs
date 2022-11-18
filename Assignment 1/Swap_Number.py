@@ -2,7 +2,7 @@
 # Take inputs from the user
 x = int(input("Enter x : "))
 y = int(input("Enter y : "))
-#Swap Condition
+#Swap Code
 x=y
 y=x
 print("x =", x)
