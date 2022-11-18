@@ -2,6 +2,9 @@
 # Take inputs from the user
 x = int(input("Enter x : "))
 y = int(input("Enter y : "))
-x, y = y, x
+#Swap Condition
+x=y
+y=x
 print("x =", x)
 print("y =", y)
+# Code By Rj
