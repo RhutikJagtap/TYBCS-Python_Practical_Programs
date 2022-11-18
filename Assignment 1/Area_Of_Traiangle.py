@@ -1,6 +1,6 @@
-# Python Program to find the area of triangle
+# Set A 1.Python Program to find the area of triangle
 
-# 1.Take inputs from the user
+# Take inputs from the user
 a = float(input("Enter first side: "))
 b = float(input("Enter second side: "))
 c = float(input("Enter third side: "))
