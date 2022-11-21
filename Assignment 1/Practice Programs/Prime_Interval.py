@@ -11,5 +11,4 @@ for n in range(start, end + 1):
             break
     if flag == 0:
         print(n)
-
 # Code By Rj
