@@ -1,3 +1,4 @@
+#Set A-Function
 # Write a Python program to reverse a string.
 def reverse_string(str):
     str1 = ""   # Declaring empty string to store the reversed string
