@@ -1,3 +1,4 @@
+#Set A-Strings
 # 3) Write a python program to remove i’th character from string in different ways
 String = input("Enter the string : ")
 i = int(input("Enter the index of character to be removed : "))
